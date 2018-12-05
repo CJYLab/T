@@ -4,6 +4,10 @@ aoaklfjkhfkakfdjh
 another add
 
 
+<<<<<<< HEAD
 another one again
 
 one more time
+=======
+another one again
+>>>>>>> e152646ab1dda732104578a110452f62e5369176
