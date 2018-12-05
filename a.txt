@@ -4,8 +4,15 @@ aoaklfjkhfkakfdjh
 another add
 
 
+<<<<<<< HEAD
 another one again
 
 one more time
+<<<<<<< HEAD
 
 fix
+=======
+=======
+another one again
+>>>>>>> e152646ab1dda732104578a110452f62e5369176
+>>>>>>> refs/remotes/origin/master
